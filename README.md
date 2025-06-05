@@ -13,6 +13,9 @@ A simple bash script to **zip and share local files or folders** using a **tempo
 * Generates a downloadable link and optional QR code
 * Opens everything in separate terminals to avoid bugs or conflicts
 
+
+[Screencast from 06.06.2025 00:07:28.webm](https://github.com/user-attachments/assets/50a2aa1d-e01f-4298-912f-90d705495186)
+
 ---
 
 ### 🛠️ Requirements
