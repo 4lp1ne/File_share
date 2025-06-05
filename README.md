@@ -101,6 +101,11 @@ sudo apt install qrencode
 📱 Generating QR code...
 ✅ Transfer ready!
 ```
+### To Download
+
+```bash
+wget <url> 
+```
 
 ---
 
